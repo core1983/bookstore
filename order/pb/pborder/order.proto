@@ -1,0 +1,59 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "orderpb";
+
+service OrderService {
+    rpc CreateOrder (CreateOrderRequest) returns (CreateOrderResponse) {
+    }
+    rpc GetOrdersForUser (GetOrdersForUserRequest) returns (GetOrdersForUserResponse) {
+    }
+}
+
+message Order {
+    string id = 1;
+    bytes createdAt = 2;
+    string userId = 3;
+    double totalPrice = 4;
+    message OrderBook {
+        string id = 1;
+        string isbn = 2;
+        string title = 3;
+        string author = 4;
+        double price = 5;
+        uint32 quantity = 6;
+    }
+    repeated OrderBook books = 5;
+}
+
+message CreateOrderRequest {
+    message OrderBook {
+        string book_id = 2;
+        uint32 quantity = 3;
+    }
+
+    string user_id = 2;
+    repeated OrderBook books = 4;
+}
+
+message CreateOrderResponse {
+    Order order = 1;
+}
+
+message GetOrderRequest {
+    string id = 1;
+}
+
+message GetOrderResponse {
+    Order order = 1;
+}
+
+message GetOrdersForUserRequest {
+    string user_id = 1;
+}
+
+message GetOrdersForUserResponse {
+    repeated Order orders = 1;
+}
+

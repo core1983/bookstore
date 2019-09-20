@@ -1,0 +1,5 @@
+database:
+  connectionstring: "host=localhost port=5432 user=paul password=kredka12 dbname=book_db sslmode=disable"
+
+server:
+  port: 7002

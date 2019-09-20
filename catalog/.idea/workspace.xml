@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67f902f9-c93e-4426-8e6b-2a439b7f3d07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/.idea/.idea.ApiGateway.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/ApiGateway.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/obj/ApiGateway.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/obj/ApiGateway.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/obj/ApiGateway.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/obj/ApiGateway.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiGateway/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/catalog/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/.idea/order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/catalogClient.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/cmd/order/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/config/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/grpc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/pb/pbcatalog/catalog.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/pb/pbcatalog/catalog.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/pb/pborder/order.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/pb/pborder/order.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/pb/pbuser/user.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/pb/pbuser/user.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order/userClient.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/README.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/api_gateway/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/poetry.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/tests/test_api_gateway.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/grpc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/http.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/model.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pb/catalog.proto" beforeDir="false" afterPath="$PROJECT_DIR$/pb/catalog.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/repository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/.idea/dataSources/b8f6970c-2797-4faa-999f-943d6d8b23fe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/.idea/dataSources/b8f6970c-2797-4faa-999f-943d6d8b23fe/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/.idea/dataSources/b8f6970c-2797-4faa-999f-943d6d8b23fe/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/.idea/dataSources/b8f6970c-2797-4faa-999f-943d6d8b23fe/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/.idea/dataSources/b8f6970c-2797-4faa-999f-943d6d8b23fe/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/cmd/user/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user/cmd/user/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../user/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/../user/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/grpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user/grpc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user/http.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user/model.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/pb/user.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user/pb/user.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/pb/user.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../user/pb/user.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user/repository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/../user/service.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1Qz7GR2YjH9dm3ao7tqGnCZvrh9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../order" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build catalog/cmd/catalog">
+    <configuration name="go build catalog/cmd/catalog" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="catalog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/catalog/main.go" />
+      <package value="catalog/cmd/catalog" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build repository.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="catalog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/repository.go" />
+      <package value="catalog" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build catalog/cmd/catalog" />
+        <item itemvalue="Go Build.go build repository.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+</project>
